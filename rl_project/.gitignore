@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+results/.geometry_cache/
+results/.cache/

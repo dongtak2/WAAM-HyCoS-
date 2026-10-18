@@ -1,0 +1,80 @@
+[
+  {
+    "layer": 0,
+    "cache_key": "f79cbcbc3e0e7056e2e4b6f718e346e002f92ea0c06b48ae50bf476387f2fe8b",
+    "target_area": 9736.703076720005,
+    "deposited_area": 8907.896395664995,
+    "intersection_area": 8856.743091259987,
+    "coverage": 0.9096244407859205,
+    "overfill": 0.00525365762948174,
+    "iou": 0.9048705606612092,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1137.2832455245832,
+    "deposition_s": 142.1604056905729
+  },
+  {
+    "layer": 1,
+    "cache_key": "4067c7e394a8aa252c0ec42461a5ca9f68d4aaa59eb23bd89a4fa117e8d53b51",
+    "target_area": 9736.705195329989,
+    "deposited_area": 9110.132620164968,
+    "intersection_area": 9056.384248950028,
+    "coverage": 0.9301282176329768,
+    "overfill": 0.005520180609013393,
+    "iou": 0.9250219295147573,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1156.0466892620464,
+    "deposition_s": 144.5058361577558
+  },
+  {
+    "layer": 2,
+    "cache_key": "70d57c7b55aa976a165f2267ca461475931c251391b0f08e6101a55f633fd6cb",
+    "target_area": 9736.703068400006,
+    "deposited_area": 9033.506144640065,
+    "intersection_area": 8981.24430556002,
+    "coverage": 0.9224112353501063,
+    "overfill": 0.005367508766869821,
+    "iou": 0.9174866178851222,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1146.454183291428,
+    "deposition_s": 143.3067729114285
+  },
+  {
+    "layer": 3,
+    "cache_key": "1960c9b3f68938b0be55f6d212795332070634be2bfd4de46b8b1848e0559f56",
+    "target_area": 9736.70306840001,
+    "deposited_area": 9033.580582020015,
+    "intersection_area": 8979.937273625,
+    "coverage": 0.9222769977210197,
+    "overfill": 0.005509391425225946,
+    "iou": 0.9172236535889224,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1146.4672736556115,
+    "deposition_s": 143.30840920695144
+  },
+  {
+    "layer": 4,
+    "cache_key": "0b29cedd48e142260f9b1f500bbfe5bf9ac93e363f23a6929058cced99342c41",
+    "target_area": 9736.705195329956,
+    "deposited_area": 9110.132707675002,
+    "intersection_area": 9056.386710874975,
+    "coverage": 0.9301284704828812,
+    "overfill": 0.005519936746755557,
+    "iou": 0.925022405316204,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1156.0466897021272,
+    "deposition_s": 144.5058362127659
+  },
+  {
+    "layer": 5,
+    "cache_key": "e5d235da37e74e16e36cd4471329505c7ecfe92d36e74773021627726893d032",
+    "target_area": 9736.703076720012,
+    "deposited_area": 8908.092711420035,
+    "intersection_area": 8855.478413659985,
+    "coverage": 0.9094945531237372,
+    "overfill": 0.005403707738181778,
+    "iou": 0.9046063249257279,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1137.317764222061,
+    "deposition_s": 142.16472052775762
+  }
+]

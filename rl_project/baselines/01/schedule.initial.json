@@ -1,0 +1,167 @@
+{
+  "makespan_s": 1528.937391898319,
+  "tasks": 18,
+  "checks": {
+    "task_completeness": true,
+    "local_support": true,
+    "continuous_collision": true,
+    "stationary_after_finish": true,
+    "rows": 3713,
+    "robot_rows": [
+      1205,
+      1195,
+      1313
+    ],
+    "intervals": {
+      "D": 3268,
+      "T": 104,
+      "W": 338
+    },
+    "csv_roundtrip": {
+      "rows": 3713,
+      "robot_rows": [
+        1205,
+        1195,
+        1313
+      ],
+      "intervals": {
+        "D": 3268,
+        "T": 104,
+        "W": 338
+      }
+    }
+  },
+  "robot_busy_s": [
+    504.1673769303458,
+    494.7741351721188,
+    529.9942797958547
+  ],
+  "reservations": [
+    {
+      "task": 2,
+      "robot_id": 2,
+      "start_s": 0.0,
+      "end_s": 83.48969964856413,
+      "orientation": 0
+    },
+    {
+      "task": 0,
+      "robot_id": 1,
+      "start_s": 83.48979964856413,
+      "end_s": 169.88299882389902,
+      "orientation": 0
+    },
+    {
+      "task": 1,
+      "robot_id": 3,
+      "start_s": 169.88309882389902,
+      "end_s": 252.9560409486926,
+      "orientation": 0
+    },
+    {
+      "task": 5,
+      "robot_id": 2,
+      "start_s": 252.9561409486926,
+      "end_s": 335.08942941067494,
+      "orientation": 0
+    },
+    {
+      "task": 4,
+      "robot_id": 3,
+      "start_s": 335.0895294106749,
+      "end_s": 424.4982739991199,
+      "orientation": 0
+    },
+    {
+      "task": 3,
+      "robot_id": 1,
+      "start_s": 424.49837399911985,
+      "end_s": 509.521004121841,
+      "orientation": 0
+    },
+    {
+      "task": 7,
+      "robot_id": 3,
+      "start_s": 509.52110412184095,
+      "end_s": 603.9837425463359,
+      "orientation": 0
+    },
+    {
+      "task": 8,
+      "robot_id": 2,
+      "start_s": 603.9838425463358,
+      "end_s": 685.8340452433582,
+      "orientation": 0
+    },
+    {
+      "task": 6,
+      "robot_id": 1,
+      "start_s": 685.8341452433582,
+      "end_s": 764.778222578463,
+      "orientation": 0
+    },
+    {
+      "task": 10,
+      "robot_id": 3,
+      "start_s": 764.778322578463,
+      "end_s": 857.3492549389296,
+      "orientation": 0
+    },
+    {
+      "task": 11,
+      "robot_id": 2,
+      "start_s": 857.3493549389295,
+      "end_s": 939.1831896535085,
+      "orientation": 0
+    },
+    {
+      "task": 9,
+      "robot_id": 1,
+      "start_s": 939.1832896535085,
+      "end_s": 1019.9554548488253,
+      "orientation": 0
+    },
+    {
+      "task": 12,
+      "robot_id": 1,
+      "start_s": 1019.9554548488253,
+      "end_s": 1106.692845812297,
+      "orientation": 0
+    },
+    {
+      "task": 14,
+      "robot_id": 2,
+      "start_s": 1106.692945812297,
+      "end_s": 1188.767265137134,
+      "orientation": 0
+    },
+    {
+      "task": 13,
+      "robot_id": 3,
+      "start_s": 1188.767365137134,
+      "end_s": 1276.2691692538328,
+      "orientation": 0
+    },
+    {
+      "task": 17,
+      "robot_id": 2,
+      "start_s": 1276.2692692538328,
+      "end_s": 1359.6620595789668,
+      "orientation": 0
+    },
+    {
+      "task": 15,
+      "robot_id": 1,
+      "start_s": 1359.6621595789668,
+      "end_s": 1445.9600737173632,
+      "orientation": 0
+    },
+    {
+      "task": 16,
+      "robot_id": 3,
+      "start_s": 1445.9601737173632,
+      "end_s": 1528.937391898319,
+      "orientation": 0
+    }
+  ]
+}

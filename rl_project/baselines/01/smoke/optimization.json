@@ -1,0 +1,122 @@
+{
+  "history": [
+    {
+      "iteration": 1,
+      "operator": "critical_relocate",
+      "outcome": "no_candidate",
+      "elapsed_s": 0.0,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {}
+    },
+    {
+      "iteration": 2,
+      "operator": "workload_balance",
+      "outcome": "no_candidate",
+      "elapsed_s": 0.0,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {}
+    },
+    {
+      "iteration": 3,
+      "operator": "conflict_reorder",
+      "outcome": "rejected",
+      "elapsed_s": 0.0,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {}
+    },
+    {
+      "iteration": 4,
+      "operator": "path_reorientation",
+      "outcome": "rejected",
+      "elapsed_s": 0.04699999999957072,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {}
+    },
+    {
+      "iteration": 5,
+      "operator": "geometry_repartition",
+      "outcome": "rejected",
+      "elapsed_s": 0.23400000000037835,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {
+        "repartitioned_layers": [
+          0
+        ]
+      }
+    },
+    {
+      "iteration": 6,
+      "operator": "timing_repair",
+      "outcome": "rejected",
+      "elapsed_s": 0.0,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {}
+    },
+    {
+      "iteration": 7,
+      "operator": "local_cp_sat",
+      "outcome": "rejected",
+      "elapsed_s": 0.06199999999989814,
+      "best_makespan_s": 252.9560409486926,
+      "weight": 0.8400000000000001,
+      "detail": {
+        "status": "OPTIMAL",
+        "tasks": 3,
+        "conflict_edges": 3,
+        "wall_s": 0.045649
+      }
+    }
+  ],
+  "operators": {
+    "critical_relocate": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "workload_balance": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "conflict_reorder": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "path_reorientation": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "geometry_repartition": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "timing_repair": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    },
+    "local_cp_sat": {
+      "attempts": 1,
+      "improvements": 0,
+      "gain_s": 0.0
+    }
+  },
+  "weights": {
+    "critical_relocate": 0.8400000000000001,
+    "workload_balance": 0.8400000000000001,
+    "conflict_reorder": 0.8400000000000001,
+    "path_reorientation": 0.8400000000000001,
+    "geometry_repartition": 0.8400000000000001,
+    "timing_repair": 0.8400000000000001,
+    "local_cp_sat": 0.8400000000000001
+  }
+}

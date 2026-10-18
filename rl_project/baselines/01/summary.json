@@ -1,0 +1,60 @@
+{
+  "model": 1,
+  "mode": "generate",
+  "partial": false,
+  "official_validator_run": false,
+  "initial_makespan_s": 1528.937391898319,
+  "makespan_s": 1528.937391898319,
+  "tasks": 18,
+  "checks": {
+    "continuous_checked": true,
+    "park_checked": true,
+    "support_edges": 45
+  },
+  "robot_busy_s": [
+    504.1673769303458,
+    494.7741351721188,
+    529.9942797958547
+  ],
+  "runtime_s": 3.766000000000531,
+  "stages": {
+    "geometry_s": 0.125,
+    "partition_s": 1.280999999999949,
+    "initial_schedule_s": 0.9849999999996726,
+    "optimization_s": 0.0
+  },
+  "preflight": {
+    "task_completeness": true,
+    "local_support": true,
+    "continuous_collision": true,
+    "stationary_after_finish": true,
+    "rows": 3713,
+    "robot_rows": [
+      1205,
+      1195,
+      1313
+    ],
+    "intervals": {
+      "D": 3268,
+      "T": 104,
+      "W": 338
+    },
+    "csv_roundtrip": {
+      "rows": 3713,
+      "robot_rows": [
+        1205,
+        1195,
+        1313
+      ],
+      "intervals": {
+        "D": 3268,
+        "T": 104,
+        "W": 338
+      }
+    }
+  },
+  "input_sha256": {
+    "config.yaml": "0c6111e4657f0cc4fc3ba0722ab18ccb78a533e7c233e08b185673c8d846c7e7",
+    "target.stl": "c82bfb68b3ee385230db769eab62236205de560ed85abe3ddf3a09d910e4e146"
+  }
+}

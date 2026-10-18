@@ -1,0 +1,249 @@
+{
+  "events": [
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 83.48969964856413,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 83.48969964856413,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 83.48979964856413,
+      "blocking_task": 0,
+      "conflict_start_s": 83.48979964856413,
+      "conflict_end_s": 169.88299882389902,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 3,
+      "attempt_start_s": 252.9560409486926,
+      "blocking_task": 1,
+      "conflict_start_s": 252.9560409486926,
+      "conflict_end_s": 252.9560409486926,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 252.9560409486926,
+      "blocking_task": 5,
+      "conflict_start_s": 252.9560409486926,
+      "conflict_end_s": 335.08942941067494,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 252.9560409486926,
+      "blocking_task": 5,
+      "conflict_start_s": 252.9560409486926,
+      "conflict_end_s": 335.08942941067494,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 252.9560409486926,
+      "blocking_task": 1,
+      "conflict_start_s": 252.9560409486926,
+      "conflict_end_s": 252.9560409486926,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 335.0895294106749,
+      "blocking_task": 4,
+      "conflict_start_s": 335.0895294106749,
+      "conflict_end_s": 424.4982739991199,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 509.521004121841,
+      "blocking_task": 3,
+      "conflict_start_s": 509.521004121841,
+      "conflict_end_s": 509.521004121841,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 1,
+      "attempt_start_s": 509.521004121841,
+      "blocking_task": 3,
+      "conflict_start_s": 509.521004121841,
+      "conflict_end_s": 509.521004121841,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 3,
+      "attempt_start_s": 509.521004121841,
+      "blocking_task": 7,
+      "conflict_start_s": 509.521004121841,
+      "conflict_end_s": 603.9837425463359,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 509.521004121841,
+      "blocking_task": 7,
+      "conflict_start_s": 509.521004121841,
+      "conflict_end_s": 603.9837425463359,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 603.9838425463358,
+      "blocking_task": 8,
+      "conflict_start_s": 603.9838425463358,
+      "conflict_end_s": 685.8340452433582,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 764.778222578463,
+      "blocking_task": 6,
+      "conflict_start_s": 764.778222578463,
+      "conflict_end_s": 764.778222578463,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 1,
+      "attempt_start_s": 764.778222578463,
+      "blocking_task": 6,
+      "conflict_start_s": 764.778222578463,
+      "conflict_end_s": 764.778222578463,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 3,
+      "attempt_start_s": 764.778222578463,
+      "blocking_task": 10,
+      "conflict_start_s": 764.778222578463,
+      "conflict_end_s": 857.3492549389296,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 764.778222578463,
+      "blocking_task": 10,
+      "conflict_start_s": 764.778222578463,
+      "conflict_end_s": 857.3492549389296,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 857.3493549389295,
+      "blocking_task": 11,
+      "conflict_start_s": 857.3493549389295,
+      "conflict_end_s": 939.1831896535085,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 1,
+      "attempt_start_s": 1019.9554548488253,
+      "blocking_task": 9,
+      "conflict_start_s": 1019.9554548488253,
+      "conflict_end_s": 1019.9554548488253,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 1,
+      "attempt_start_s": 1019.9555548488253,
+      "blocking_task": 12,
+      "conflict_start_s": 1019.9555548488253,
+      "conflict_end_s": 1106.692845812297,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 1019.9554548488253,
+      "blocking_task": 9,
+      "conflict_start_s": 1019.9554548488253,
+      "conflict_end_s": 1019.9554548488253,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 1019.9554548488253,
+      "blocking_task": 14,
+      "conflict_start_s": 1019.9554548488253,
+      "conflict_end_s": 1188.767265137134,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 3,
+      "attempt_start_s": 1276.2691692538328,
+      "blocking_task": 13,
+      "conflict_start_s": 1276.2691692538328,
+      "conflict_end_s": 1276.2691692538328,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 1276.2691692538328,
+      "blocking_task": 17,
+      "conflict_start_s": 1276.2691692538328,
+      "conflict_end_s": 1359.6620595789668,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 1276.2691692538328,
+      "blocking_task": 13,
+      "conflict_start_s": 1276.2691692538328,
+      "conflict_end_s": 1276.2691692538328,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 1276.2691692538328,
+      "blocking_task": 17,
+      "conflict_start_s": 1276.2691692538328,
+      "conflict_end_s": 1359.6620595789668,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 1359.6621595789668,
+      "blocking_task": 15,
+      "conflict_start_s": 1359.6621595789668,
+      "conflict_end_s": 1445.9600737173632,
+      "kind": "swept_envelope"
+    }
+  ],
+  "learned_motion_pairs": 27,
+  "events_truncated_at": 2000
+}

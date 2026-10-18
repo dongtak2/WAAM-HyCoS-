@@ -1,0 +1,62 @@
+{
+  "makespan_s": 252.9560409486926,
+  "tasks": 3,
+  "checks": {
+    "task_completeness": true,
+    "local_support": true,
+    "continuous_collision": true,
+    "stationary_after_finish": true,
+    "rows": 613,
+    "robot_rows": [
+      196,
+      199,
+      218
+    ],
+    "intervals": {
+      "D": 538,
+      "T": 16,
+      "W": 56
+    },
+    "csv_roundtrip": {
+      "rows": 613,
+      "robot_rows": [
+        196,
+        199,
+        218
+      ],
+      "intervals": {
+        "D": 538,
+        "T": 16,
+        "W": 56
+      }
+    }
+  },
+  "robot_busy_s": [
+    86.3931991753349,
+    83.48969964856413,
+    83.07294212479357
+  ],
+  "reservations": [
+    {
+      "task": 2,
+      "robot_id": 2,
+      "start_s": 0.0,
+      "end_s": 83.48969964856413,
+      "orientation": 0
+    },
+    {
+      "task": 0,
+      "robot_id": 1,
+      "start_s": 83.48979964856413,
+      "end_s": 169.88299882389902,
+      "orientation": 0
+    },
+    {
+      "task": 1,
+      "robot_id": 3,
+      "start_s": 169.88309882389902,
+      "end_s": 252.9560409486926,
+      "orientation": 0
+    }
+  ]
+}

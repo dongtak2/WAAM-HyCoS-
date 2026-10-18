@@ -1,0 +1,105 @@
+{
+  "events": [
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 83.48969964856413,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 83.48969964856413,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 83.48979964856413,
+      "blocking_task": 0,
+      "conflict_start_s": 83.48979964856413,
+      "conflict_end_s": 169.88299882389902,
+      "kind": "swept_envelope"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 3,
+      "attempt_start_s": 0.0,
+      "blocking_task": 1,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 8.925924479298667,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 3,
+      "attempt_start_s": 0.0,
+      "blocking_task": 1,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 8.926739960093162,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 2,
+      "robot_b": 1,
+      "attempt_start_s": 83.07304212479357,
+      "blocking_task": 0,
+      "conflict_start_s": 83.07304212479357,
+      "conflict_end_s": 91.99896660409225,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 9.090942193916113,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 83.48979964856413,
+      "blocking_task": 0,
+      "conflict_start_s": 83.48979964856413,
+      "conflict_end_s": 92.4157241278628,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 1,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 8.925924479298667,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 2,
+      "attempt_start_s": 0.0,
+      "blocking_task": 2,
+      "conflict_start_s": 0.0,
+      "conflict_end_s": 8.926739960093162,
+      "kind": "tcp"
+    },
+    {
+      "robot_a": 3,
+      "robot_b": 1,
+      "attempt_start_s": 83.48979964856413,
+      "blocking_task": 0,
+      "conflict_start_s": 83.48979964856413,
+      "conflict_end_s": 92.4157241278628,
+      "kind": "tcp"
+    }
+  ],
+  "learned_motion_pairs": 5,
+  "events_truncated_at": 2000
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "layer": 0,
+    "cache_key": "94db24338632a6d3c65e5e8a5ffdd52a699b8f92d6b1184dd24dcee5e11fe190",
+    "target_area": 9736.703076720005,
+    "deposited_area": 8907.896395664995,
+    "intersection_area": 8856.743091259987,
+    "coverage": 0.9096244407859205,
+    "overfill": 0.00525365762948174,
+    "iou": 0.9048705606612092,
+    "strategy": "centerline+adaptive-repair",
+    "length_mm": 1137.2832455245832,
+    "deposition_s": 142.1604056905729
+  }
+]

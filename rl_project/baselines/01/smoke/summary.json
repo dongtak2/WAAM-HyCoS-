@@ -1,0 +1,60 @@
+{
+  "model": 1,
+  "mode": "optimize",
+  "partial": true,
+  "official_validator_run": false,
+  "initial_makespan_s": 252.9560409486926,
+  "makespan_s": 252.9560409486926,
+  "tasks": 3,
+  "checks": {
+    "continuous_checked": true,
+    "park_checked": true,
+    "support_edges": 0
+  },
+  "robot_busy_s": [
+    86.3931991753349,
+    83.48969964856413,
+    83.07294212479357
+  ],
+  "runtime_s": 11.405999999999949,
+  "stages": {
+    "geometry_s": 10.219000000000051,
+    "partition_s": 0.23500000000058208,
+    "initial_schedule_s": 0.23399999999946886,
+    "optimization_s": 0.3429999999998472
+  },
+  "preflight": {
+    "task_completeness": true,
+    "local_support": true,
+    "continuous_collision": true,
+    "stationary_after_finish": true,
+    "rows": 613,
+    "robot_rows": [
+      196,
+      199,
+      218
+    ],
+    "intervals": {
+      "D": 538,
+      "T": 16,
+      "W": 56
+    },
+    "csv_roundtrip": {
+      "rows": 613,
+      "robot_rows": [
+        196,
+        199,
+        218
+      ],
+      "intervals": {
+        "D": 538,
+        "T": 16,
+        "W": 56
+      }
+    }
+  },
+  "input_sha256": {
+    "config.yaml": "0c6111e4657f0cc4fc3ba0722ab18ccb78a533e7c233e08b185673c8d846c7e7",
+    "target.stl": "c82bfb68b3ee385230db769eab62236205de560ed85abe3ddf3a09d910e4e146"
+  }
+}
